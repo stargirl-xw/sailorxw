@@ -1,79 +1,39 @@
 <div align="center">
 
-# sailorxw ☾
+<!-- Título principal con efecto glitter ✨ -->
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=35&duration=3000&pause=500&color=FFB7C5&center=true&vCenter=true&width=435&lines=Hey+cutie!+%F0%9F%8E%80;Welcome+to+my+repo+%F0%9F%8E%82;Hope+you+smile+today+%F0%9F%8C%B8" alt="Typing SVG" />
 
-### learning software development one bug at a time ✦
-#### aprendiendo desarrollo de software un bug a la vez ✦
+<!-- Divisor de corazones 🌸 -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="40" height="40" />
+🌸 ⋆｡°✩ * ~ ｡⋆｡ ˚ ✩ ⋆｡° ✩ * ~ ｡⋆｡ ˚ ✩ 🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5B7FF&center=true&vCenter=true&width=435&lines=PostgreSQL+learner;Girl+who+codes+%E2%9C%A8;Backend+in+progress;Coffee+%2B+Music+%2B+Code" />
+<!-- Nombre del proyecto cute -->
+# ✩°｡⋆⸜ 🎀  *mi proyecto aesthetic*  🎀 ⸝⋆｡°✩
 
 </div>
 
----
+## 🫧 about this repo ˚ ༘ ೀ⋆｡˚
 
-## 🌸 about me
-### 🌸 sobre mí
+Este espacio es como mi diario digital de código.  
+Aquí encontrarás cositas lindas que voy creando mientras aprendo y me divierto.  
 
-- 💻 first-year software development student  
-  estudiante de primer año de desarrollo de software
+> “código bonito, corazón contento” 💗
 
-- ☕ coding with caffeine and playlists  
-  programando con cafeína y playlists
-
-- 🌙 currently learning PostgreSQL, networking & GitHub  
-  aprendiendo PostgreSQL, redes y GitHub
-
-- ✨ future backend developer  
-  futura desarrolladora backend
-
----
-
-## ✦ tech stack
-### ✦ tecnologías
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,postgresql,git,github,vscode" />
-
-</p>
-
----
-
-## ☾ currently learning
-### ☾ aprendiendo actualmente
-
-```txt
-PostgreSQL   ███████░░░
-Networking   ██████░░░░
-Git/GitHub   ████████░░
-Backend      ████░░░░░░
-```
-
----
-
-## ✨ github stats
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=stargirl-xw&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stargirl-xw&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## ♡ quote
-### ♡ frase
-
-> "pretty profile, dangerous debugging skills"  
-> "perfil bonito, habilidades peligrosas para depurar"
-
----
+## 🎀 technologies i use ˚ ༘ ೀ⋆｡˚
 
 <div align="center">
 
-### 🌙 thank you for visiting my profile
-### 🌙 gracias por visitar mi perfil
+![HTML5](https://img.shields.io/badge/html5-%23FFC0CB.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%23FFB6C1.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23FF99BB.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 </div>
+
+## 🌸 sneak peek ✧ ˚ ₊ ˚ . 𓍯
+
+```python
+# un pedacito de código cute
+def mensaje_para_ti():
+    return "💖 eres increíble 💖"
+
+print(mensaje_para_ti())

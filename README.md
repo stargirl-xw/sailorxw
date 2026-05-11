@@ -1,72 +1,86 @@
 <div align="center">
 
-<!-- ======== ANIMACIÓN DE ESTRELLAS Y CIELO ROSA ======== -->
-<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=45&duration=3500&pause=500&color=FF99CC&center=true&vCenter=true&width=600&lines=☆*:.｡.o(≧▽≦)o.｡.:*☆;Welcome+to+my+magical+repo;the+cutest+place+on+GitHub;sparkles+%26+happiness+only" alt="Typing Animation" />
-
-<!-- ESTRELLAS BRILLANDO (con emojis en movimiento aparente) -->
+<!-- ====== TÍTULO PRINCIPAL CON ESTRELLAS BRILLANTES ====== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkle.png" alt="Sparkle" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Star.png" alt="Star" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkle.png" alt="Sparkle" width="30" />
+  ✧ ˚₊‧⁺˖♡ ⋆｡°✩ * ♡˖⁺‧₊˚ ✧
 </p>
 
-<!-- FLOR ROSA FLOTANDO (gif real de rosa flotando) -->
-<img src="https://i.pinimg.com/originals/9e/f7/36/9ef736e41d1a2dfe9715b043afb157d5.gif" alt="Floating Rose" width="80" />
+# 💗🌸 *ＭＩ ＲＥＰＯＳＩＴＯＲＩＯ ＭÁＧＩＣＯ* 🌸💗
 
-# 💗 ｡°✩ ✧ ˚₊‧⁺˖♡ **mi proyecto más hermoso** ♡˖⁺‧₊˚ ✧ ✩°｡ 💗
+<p align="center">
+  ✧ ˚₊‧⁺˖♡ ⋆｡°✩ * ♡˖⁺‧₊˚ ✧
+</p>
 
-### *⋆｡°✩ coded with love, rosy vibes and infinite glitter ✩°｡⋆*
+<!-- ====== ESTRELLAS BAILANDO ====== -->
+<p align="center">
+  ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+</p>
 
-<!-- CONTADOR DE VISITAS GLITTER -->
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=🌸+VISITAS+LINDAS+🌸&color=ff99cc&style=for-the-badge" alt="Visit counter" />
+<!-- ====== ROSA FLOTANTE CON EMOJIS ====== -->
+<p align="center">
+  🌸 🩷 🌸 🩷 🌸 🩷 🌸 🩷 🌸
+</p>
+
+<!-- TEXTO CON MOVIMIENTO (con emojis que dan sensación de movimiento) -->
+<p align="center">
+  <b>
+    ✩°｡⋆⸜ 🎀  <i>c o d i g o   c o n   a m o r</i>  🎀 ⸝⋆｡°✩
+  </b>
+</p>
+
+<p align="center">
+  <i>✨ la chica más aesthetic de todo GitHub ✨</i>
+</p>
+
+<!-- CONTADOR DE VISITAS ROSITA -->
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=🌸+visitas+de+angelitos+🌸&color=ff99cc&style=for-the-badge" />
 
 ---
 
 </div>
 
-## 🌸 ⋆｡°✩ **about this enchanted repo** ✩°｡⋆ 🌸
+## 🌸✨ *｡｡ ﾟ sobre este espacio ﾟ ｡｡* ✨🌸
 
-> *🌸 where dreams become code and every commit smells like roses*
+<p align="center">
+  <i>🌸 un lugar donde el código se viste de rosa y las estrellas me acompañan a programar 🌸</i>
+</p>
 
-Este repositorio es mi **bitácora mágica** de programación. Aquí guardo todos mis proyectos con amor, paciencia y muchos **glitter effects**. Cada línea de código tiene un poquito de mi corazón rosita. 💖
+> 💗 *este repositorio es mi cuaderno secreto de programación. aquí guardo mis proyectos más lindos, mis experimentos con colores pastel y todo lo que aprendo mientras me tomo mi matcha latte* 💗
 
-| 🌟 **lo que encontrarás** | 🎀 **vibes** |
-|---------------------------|--------------|
-| HTML/CSS cute             | pastel dreams|
-| JavaScript con chispa      | glitter rain |
-| diseños responsive         | rosy cheeks  |
+<br>
 
----
-
-## ✨ *｡｡ ﾟ **tecnologías que uso** ﾟ ｡｡* ✨
+## 🎀 *⋆｡°✩ tecnologías que uso (y amo) ✩°｡⋆* 🎀
 
 <div align="center">
 
-<!-- BADGES CON COLORES PASTEL Y ESTRELLAS -->
-<img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-FFABBB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFA9B9?style=for-the-badge&logo=python&logoColor=white" />
+| 🎀 | tecnología | 💗 |
+|---|---|---|
+| ✨ | `HTML5` | *el esqueleto bonito* |
+| 🌸 | `CSS3` | *la magia del color* |
+| ⭐️ | `JavaScript` | *chispitas de interactividad* |
+| 🩷 | `Python` | *cuando quiero sentirme power* |
 
 </div>
 
----
+<br>
 
-## 🎀 **✨ sneak peek – un pedacito de magia ✨** 🎀
+## 🌙 *｡˚ ✩ un pedacito de mi código (con mucho amor) ✩ ˚｡* 🌙
 
 ```python
 # ☆*:.｡.o(≧▽≦)o.｡.:*☆
 class ChicaProgramadora:
     def __init__(self):
-        self.humor = "⚡ feliz con café ☕"
-        self.estilo = "pastel con purpurina ✨"
-        self.sueno = "hacer del mundo un lugar más rosita 🌸"
+        self.nombre = "tu girl aesthetic"
+        self.humor = "💖 feliz y con glitter en los ojos"
+        self.bebida_favorita = "🧋 matcha latte"
+        self.color_del_dia = "#FFB7C5"
     
-    def codigo_lindo(self):
-        return "💖 cada día aprendo algo nuevo y lo dejo bonito 💖"
+    def programar_con_estilo(self):
+        return "🌸 cada línea de código es una oportunidad para crear algo hermoso 🌸"
+    
+    def sonrisa_por_linea(self):
+        return "😊✨✨✨"
 
 yo = ChicaProgramadora()
-print(yo.codigo_lindo())
+print(yo.programar_con_estilo())
+print("💗 " + yo.sonrisa_por_linea() + " 💗")

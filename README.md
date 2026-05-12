@@ -1,3 +1,11 @@
+<p align="center">
+<img src="LINK_DE_TU_IMAGEN" width="100%">
+</p>
+
+<p align="center">
+texto
+</p>
+
 <img width="1600" height="521" alt="Sailorgirl" src="https://github.com/user-attachments/assets/437dc997-80d7-4a0c-83eb-f025e31d65e5" />
 
 <h1 align="center">✨ Anyelina ✨</h1>

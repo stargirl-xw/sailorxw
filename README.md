@@ -3,7 +3,7 @@
 <h1 align="center">✨ Anyelina ✨</h1>
 
 <p align="center">
-11:11 🌙
+11:11 👩🏻‍💻
 </p>
 
 ---

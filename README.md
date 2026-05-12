@@ -17,31 +17,29 @@
 
 ---
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top" style="border: 2px solid #ff8fc7; border-radius: 15px; padding: 15px; box-shadow: 0 0 10px #ffd6eb; background-color: rgba(255,182,217,0.05);">
+<td width="50%" valign="top">
 
 ## ✨ little note
-
-<div align="center">
 
 > in a world full of bugs,
 >
 > be your own sailor guardian ✨
 
-</div>
-
 <br>
 
-- 🌙 coding at midnight  
-- ☕ coffee addicted  
-- 🎧 lo-fi enthusiast  
-- 💗 learning one step at a time  
+```text
+🌙 coding at midnight
+☕ coffee addicted
+🎧 lo-fi enthusiast
+💗 learning one step at a time
+```
 
 </td>
 
-<td width="50%" valign="top" style="border: 2px solid #ff8fc7; border-radius: 15px; padding: 15px; box-shadow: 0 0 10px #ffd6eb; background-color: rgba(255,182,217,0.05);">
+<td width="50%" valign="top">
 
 ## ✨ tech stack
 
@@ -58,55 +56,55 @@
 
 ---
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top" style="border: 2px solid #ff8fc7; border-radius: 15px; padding: 15px; box-shadow: 0 0 10px #ffd6eb; background-color: rgba(255,182,217,0.05);">
+<td width="50%" valign="top">
 
 ## ✨ currently learning
 
 ```text
-Databases (PostgreSQL)     ██████████░░ 70%
-Networking                 ████████░░░░ 60%
-Backend Development        ██████░░░░░░ 40%
-Git & GitHub               ███████████░ 80%
-Data Structures            ████░░░░░░░░ 30%
+Databases (PostgreSQL)   ██████████░░  70%
+Networking               ████████░░░░  60%
+Backend Development      ██████░░░░░░  40%
+Git & GitHub             ███████████░  80%
+Data Structures          ████░░░░░░░░  30%
 ```
 
 </td>
 
-<td width="50%" valign="top" style="border: 2px solid #ff8fc7; border-radius: 15px; padding: 15px; box-shadow: 0 0 10px #ffd6eb; background-color: rgba(255,182,217,0.05);">
+<td width="50%" valign="top">
 
 ## ✨ connect with me
 
 <p align="center">
 
 <a href="https://github.com/stargirl-xw">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://instagram.com/stargirl.xw">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://www.tiktok.com/@stargirl.xw">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<img src="https://img.shields.io/badge/TikTok-ff69b4?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://facebook.com/KrisVillalta">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/Facebook-ff69b4?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="mailto:19923519@clases.edu.sv">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>

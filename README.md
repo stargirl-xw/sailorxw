@@ -15,9 +15,16 @@
 - 🌙 Anime + coding ꩜ + coffee ☕︎ + myself -`𖹭´-
 - 🎧 Lo-fi while coding
 
+
+
 ---
 
-# ✨ Tech Stack
+<table>
+<tr>
+
+<td width="50%">
+
+## ✨ Tech Stack
 
 <p align="center">
 
@@ -25,21 +32,61 @@
 
 </p>
 
----
+</td>
 
-# 📚 Currently Learning
+<td width="50%">
+
+## 📚 Currently Learning
+
+```text
+PostgreSQL          ███████████░░ 70%
+Networking          █████████░░░ 60%
+Backend             ██████░░░░░░ 40%
+Git & GitHub        ████████████ 80%
+Algorithms          ████░░░░░░░░ 30%
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stargirl-xw&show_icons=true&theme=radical" />
+
+</p>
+
+</td>
+
+<td width="50%">
+
+## 🌸 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/TUUSER">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+</a>
+
+<br><br>
+
+<a href="https://spotify.com">
+<img src="https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify">
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 
----
 
-```md
-# ✦ Learning Journey
-
-┌─────────────┐
-│ PostgreSQL  | 
-| Java        │
-│ Backend     │
-│ Networking  │
-│ GitHub      │
-│ Algorithms  │
-└─────────────┘

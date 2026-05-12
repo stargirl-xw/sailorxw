@@ -56,8 +56,7 @@
 
 <p align="center">
 
-<img width="320" src="<img width="1920" height="1080" alt="Sailor programmer" src="https://github.com/user-attachments/assets/b6329e39-c3cd-43aa-ab67-4a402d0266bd" />
-">
+<img width="1920" height="1080" alt="Sailor programmer" src="https://github.com/user-attachments/assets/b6329e39-c3cd-43aa-ab67-4a402d0266bd" />
 
 </p>
 

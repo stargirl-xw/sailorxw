@@ -69,6 +69,24 @@ Networking               ████████░░░░  60%
 Backend Development      ██████░░░░░░  40%
 Git & GitHub             ███████████░  80%
 Data Structures          ████░░░░░░░░  30%
+
+
+---
+
+## 🌙 daily reminder
+
+> progress > perfection ✨
+
+<div align="center">
+
+☾ ⋆*･ﾟ:⋆*･ﾟ
+
+<br><br>
+
+made with ☕, insomnia and sailor moon vibes ✨
+
+</div>
+
 ```
 
 </td>

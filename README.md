@@ -55,7 +55,7 @@
 ## ✨ currently learning
 
 ```text
-Databases (PostgreSQL)   ██████████░░  70%
+Databases (PostgreSQL)   ██████████░░  00%
 Networking               ████████░░░░  60%
 Backend Development      ██████░░░░░░  40%
 Git & GitHub             ███████████░  80%

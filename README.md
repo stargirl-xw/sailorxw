@@ -35,10 +35,11 @@
 ### Opción 5 — súper aesthetic
 
 ```md
-## ✦ Learning Journey
+# ✦ Learning Journey
 
 ┌─────────────┐
-│ PostgreSQL  │
+│ PostgreSQL  | 
+| Java        │
 │ Backend     │
 │ Networking  │
 │ GitHub      │

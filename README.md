@@ -14,7 +14,7 @@
 
 - 💻 First-year software development student
 - 🗄️ Learning PostgreSQL & Backend
-- 🌙 Anime + coding + coffee + myself
+- 🌙 Anime + coding ꩜ + coffee ☕︎ + myself -`𖹭´-
 - 🎧 Lo-fi while coding
 
 ---

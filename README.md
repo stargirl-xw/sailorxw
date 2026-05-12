@@ -3,7 +3,7 @@
 <h1 align="center">✨ Anyelina ✨</h1>
 
 <p align="center">
-learning software development one bug at a time 🌙
+11:11 🌙
 </p>
 
 ---

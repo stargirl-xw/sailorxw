@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/TYOURIMAGE.png" width="100%">
-</p>
+<img width="1600" height="521" alt="Sailorgirl" src="https://github.com/user-attachments/assets/437dc997-80d7-4a0c-83eb-f025e31d65e5" />
 
 <h1 align="center">✨ sailorxw ✨</h1>
 

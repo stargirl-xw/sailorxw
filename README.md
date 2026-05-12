@@ -73,17 +73,22 @@ Data Structures          ████░░░░░░░░  30%
 
 ---
 
-## 🌙 daily reminder
+## 🌙 midnight thoughts
 
-> progress > perfection ✨
+> lost in code and late night thoughts ✨
 
 <div align="center">
 
-☾ ⋆*･ﾟ:⋆*･ﾟ
+☾ ⋆｡𖦹 °✩
+
+<br>
+
+coding slowly, dreaming loudly 🌸
 
 <br><br>
 
-made with ☕, insomnia and sailor moon vibes ✨
+made with ☕, pink skies  
+and sailor moon vibes ✨
 
 </div>
 

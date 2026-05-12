@@ -134,18 +134,16 @@ made with ☕, insomnia and sailor moon vibes ✨
 
 ---
 
-<div align="center">
-
 ## 🌙 daily reminder
 
 > progress > perfection ✨
 
+<div align="center">
+
 ☾ ⋆*･ﾟ:⋆*･ﾟ
 
-</div>
+<br><br>
 
----
-
-<p align="center">
 made with ☕, insomnia and sailor moon vibes ✨
-</p>
+
+</div>

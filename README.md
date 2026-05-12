@@ -1,5 +1,3 @@
-
-
 <img width="1600" height="521" alt="Sailorgirl" src="https://github.com/user-attachments/assets/437dc997-80d7-4a0c-83eb-f025e31d65e5" />
 
 <h1 align="center">✨ 𝓐𝓷𝔂𝓮𝓵𝓲𝓷𝓪 ✨</h1>
@@ -31,9 +29,18 @@
 
 # 📚 Currently Learning
 
-```text
-PostgreSQL             ██████████████░░░ 70%
-Networking             ████████████░░░░ 60%
-Backend Development    ████████░░░░░░░░ 40%
-Git & GitHub           ████████████████ 80%
-Algorithms             ██████░░░░░░░░░░ 30%
+
+---
+
+### Opción 5 — súper aesthetic
+
+```md
+## ✦ Learning Journey
+
+┌─────────────┐
+│ PostgreSQL  │
+│ Backend     │
+│ Networking  │
+│ GitHub      │
+│ Algorithms  │
+└─────────────┘

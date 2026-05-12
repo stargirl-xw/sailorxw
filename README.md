@@ -8,15 +8,6 @@
 
 ---
 
-# 🌸 About Me
-
-- 💻 First-year software development student
-- 🗄️ Learning PostgreSQL & Backend
-- 🌙 Anime + coding ꩜ + coffee ☕︎ + myself -`𖹭´-
-- 🎧 Lo-fi while coding
-
----
-
 <table width="100%">
 <tr>
 
@@ -69,7 +60,7 @@ Networking               ████████░░░░  60%
 Backend Development      ██████░░░░░░  40%
 Git & GitHub             ███████████░  80%
 Data Structures          ████░░░░░░░░  30%
-
+```
 
 ---
 
@@ -81,21 +72,19 @@ Data Structures          ████░░░░░░░░  30%
 
 ☾ ⋆｡𖦹 °✩
 
+<br>
+
 made with ☕ & sailor moon vibes ✨
 
 </div>
-
-```
 
 </td>
 
 <td width="50%" valign="top">
 
-## ✨ connect with me
+## 🌸 connect with me
 
 <p align="center">
-
-<br><br>
 
 <a href="https://instagram.com/stargirl.xw">
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
@@ -125,5 +114,3 @@ made with ☕ & sailor moon vibes ✨
 
 </tr>
 </table>
-
----

@@ -96,7 +96,7 @@ made with ☕ & sailor moon vibes ✨
 <p align="center">
 
 <a href="https://github.com/stargirl-xw">
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/ㅤGitHubㅤ-ff69b4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>

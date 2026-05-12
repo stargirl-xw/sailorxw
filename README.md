@@ -83,12 +83,7 @@ Data Structures          ████░░░░░░░░  30%
 
 <br>
 
-coding slowly, dreaming loudly 🌸
-
-<br><br>
-
-made with ☕, pink skies  
-and sailor moon vibes ✨
+made with ☕ & sailor moon vibes ✨
 
 </div>
 

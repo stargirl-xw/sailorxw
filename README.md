@@ -17,10 +17,11 @@
 
 ---
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top"
+style="border: 2px solid #ff8fc7; border-radius: 15px; padding: 15px; box-shadow: 0 0 10px #ffd6eb; background-color: rgba(255,182,217,0.05);">
 
 ## ✨ little note
 
@@ -41,7 +42,8 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top"
+style="border: 2px solid #ff8fc7; border-radius: 15px; padding: 15px; box-shadow: 0 0 10px #ffd6eb; background-color: rgba(255,182,217,0.05);">
 
 ## ✨ tech stack
 
@@ -58,10 +60,11 @@
 
 ---
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top"
+style="border: 2px solid #ff8fc7; border-radius: 15px; padding: 15px; box-shadow: 0 0 10px #ffd6eb; background-color: rgba(255,182,217,0.05);">
 
 ## ✨ currently learning
 
@@ -71,53 +74,3 @@ Networking                 ████████░░░░ 60%
 Backend Development        ██████░░░░░░ 40%
 Git & GitHub               ███████████░ 80%
 Data Structures            ████░░░░░░░░ 30%
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-## ✨ connect with me
-
-<p align="center">
-
-<a href="https://github.com/stargirl-xw">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://instagram.com/TUUSUARIO">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="mailto:TUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🌙 daily reminder
-
-> progress > perfection ✨
-
-☾ ⋆*･ﾟ:⋆*･ﾟ
-
-</div>
-
----
-
-<p align="center">
-made with ☕, insomnia and sailor moon vibes ✨
-</p>

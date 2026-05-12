@@ -87,13 +87,25 @@ Data Structures            ████░░░░░░░░ 30%
 
 <br><br>
 
-<a href="https://instagram.com/TUUSUARIO">
+<a href="https://instagram.com/stargirl.xw">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
 
-<a href="mailto:TUEMAIL@gmail.com">
+<a href="https://www.tiktok.com/@stargirl.xw">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://facebook.com/KrisVillalta">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="mailto:19923519@clases.edu.sv">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 

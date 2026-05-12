@@ -15,78 +15,163 @@
 - 🌙 Anime + coding ꩜ + coffee ☕︎ + myself -`𖹭´-
 - 🎧 Lo-fi while coding
 
+---
 
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/437dc997-80d7-4a0c-83eb-f025e31d65e5" width="100%">
+
+</td>
+
+<td width="35%" valign="top">
+
+<div align="center">
+
+## 🌸 little note
+
+> in a world full of bugs,
+>
+> be your own sailor guardian ✨
+
+</div>
+
+<br>
+
+- 🌙 coding at midnight
+- ☕ coffee addicted
+- 🎧 lo-fi enthusiast
+- 💗 learning one step at a time
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-## ✨ Tech Stack
+## ✨ tech stack ✨
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,postgresql,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,html,css,js,git,github,vscode" />
 
 </p>
 
+---
+
+## 🌸 aesthetic corner
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/437dc997-80d7-4a0c-83eb-f025e31d65e5" width="100%">
+
+</p>
+
+<div align="center">
+
+✨ sailor moon vibes ✨
+
+</div>
+
 </td>
 
-<td width="50%">
+<td width="34%" valign="top">
 
-## 📚 Currently Learning
+## ✨ currently learning ✨
 
 ```text
-PostgreSQL          ███████████░░ 70%
-Networking          █████████░░░ 60%
-Backend             ██████░░░░░░ 40%
-Git & GitHub        ████████████ 80%
-Algorithms          ████░░░░░░░░ 30%
+Databases (PostgreSQL)     70%
+Networking                 60%
+Backend Development        40%
+Git & GitHub               80%
+Data Structures            30%
 ```
 
-</td>
+---
 
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📊 GitHub Stats
+## 📊 github stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stargirl-xw&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=stargirl-xw&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%">
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stargirl-xw&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="100%">
 
 </p>
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-## 🌸 Connect With Me
+## ✨ connect with me ✨
 
 <p align="center">
 
-<a href="https://instagram.com/TUUSER">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+<a href="https://github.com/stargirl-xw">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/TUUSUARIO">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://spotify.com">
-<img src="https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="mailto:TUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
+---
+
+## 🌙 daily reminder
+
+> progress > perfection ✨
+
+<br>
+
+<div align="center">
+
+☾ ⋆*･ﾟ:⋆*･ﾟ
+
+</div>
+
 </td>
 
 </tr>
-
 </table>
 
+---
 
+<p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+made with ☕, insomnia and sailor moon vibes ✨
+</p>

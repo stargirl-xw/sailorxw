@@ -32,8 +32,6 @@
 
 ---
 
-### Opción 5 — súper aesthetic
-
 ```md
 # ✦ Learning Journey
 

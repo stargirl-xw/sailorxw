@@ -87,25 +87,25 @@ made with ☕ & sailor moon vibes ✨
 <p align="center">
 
 <a href="https://instagram.com/stargirl.xw">
-<img width="160" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
+<img width="70" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://www.tiktok.com/@stargirl.xw">
-<img width="160" src="https://img.shields.io/badge/TikTok-ff69b4?style=for-the-badge&logo=tiktok&logoColor=white">
+<img width="70" src="https://img.shields.io/badge/TikTok-ff69b4?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://facebook.com/KrisVillalta">
-<img width="160" src="https://img.shields.io/badge/Facebook-ff69b4?style=for-the-badge&logo=facebook&logoColor=white">
+<img width="70" src="https://img.shields.io/badge/Facebook-ff69b4?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="mailto:19923519@clases.edu.sv">
-<img width="160" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
+<img width="70" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>

@@ -81,8 +81,6 @@ Data Structures          ████░░░░░░░░  30%
 
 ☾ ⋆｡𖦹 °✩
 
-<br>
-
 made with ☕ & sailor moon vibes ✨
 
 </div>

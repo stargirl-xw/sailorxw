@@ -60,6 +60,7 @@
 
 </p>
 
+
 ---
 
 ## 🌙 midnight thoughts
@@ -120,8 +121,7 @@ made with ☕ & sailor moon vibes ✨
 
 
 
-# ✨ sailorxw
-
+## ────────────୨ৎ────────────
 🌙 Mi formulario aesthetic:
 
 🔗 https://stargirl-xw.github.io/sailorxw/

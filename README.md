@@ -109,6 +109,10 @@ made with ☕ & sailor moon vibes ✨
 <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 </p>
 
 

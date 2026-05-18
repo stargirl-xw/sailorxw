@@ -22,8 +22,8 @@
 ```text
 💻 software development student
 ☕ coffee lover
-🎧 lo-fi enthusiast
-¿💗 learning every day
+🌱 one day at a time
+💗 learning every day
 ```
 
 </td>

@@ -122,13 +122,12 @@ made with ☕ & sailor moon vibes ✨
 
 
 ## ────────────୨ৎ────────────
-🌙 Mi formulario aesthetic:
+꩜ Centro de Opiniones
+
+Espacio para compartir sugerencias,
+comentarios y mensajes de usuarios 👇🏻.
 
 🔗 https://stargirl-xw.github.io/sailorxw/
-
-
-Hecho con HTML + CSS en GitHub Pages ✨
-
 
 
 

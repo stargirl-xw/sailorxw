@@ -111,6 +111,15 @@ made with ☕ & sailor moon vibes ✨
 
 
 
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
 # ✨ sailorxw
 
 🌙 Mi formulario aesthetic:
@@ -120,11 +129,6 @@ made with ☕ & sailor moon vibes ✨
 
 Hecho con HTML + CSS en GitHub Pages ✨
 
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
-</p>
 
 
 

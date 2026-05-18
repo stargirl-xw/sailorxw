@@ -22,7 +22,7 @@
 <br>
 
 ```text
-🌙 coding at midnight
+💻 software development student
 ☕ coffee addicted
 🎧 lo-fi enthusiast
 💗 learning one step at a time

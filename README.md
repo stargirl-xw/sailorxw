@@ -13,19 +13,17 @@
 
 <td width="50%" valign="top">
 
-## ✨ little note
+## ✨ about me:
 
-> in a world full of bugs,
->
-> be your own sailor guardian ✨
-
+> not every error is the end,
+> some are just new beginnings ᶻ 𝗓 𐰁
 <br>
 
 ```text
 💻 software development student
-☕ coffee addicted
+☕ coffee lover
 🎧 lo-fi enthusiast
-💗 learning one step at a time
+¿💗 learning every day
 ```
 
 </td>

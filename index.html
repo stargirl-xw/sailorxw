@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>✨ Formulario — Anyelina</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --pink:    #f472b6;
+      --purple:  #c084fc;
+      --soft:    #fdf2f8;
+      --card:    #ffffff;
+      --border:  rgba(244, 114, 182, 0.25);
+      --text:    #3b1d3e;
+      --muted:   #9b6fa0;
+      --success: #6ee7b7;
+    }
+
+    body {
+      min-height: 100vh;
+      background: var(--soft);
+      background-image:
+        radial-gradient(ellipse at 20% 10%, rgba(192,132,252,0.18) 0%, transparent 55%),
+        radial-gradient(ellipse at 80% 90%, rgba(244,114,182,0.18) 0%, transparent 55%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1rem;
+      font-family: 'DM Sans', sans-serif;
+      color: var(--text);
+    }
+
+    .stars-bg {
+      position: fixed; inset: 0; pointer-events: none; overflow: hidden; z-index: 0;
+    }
+    .star {
+      position: absolute;
+      width: 3px; height: 3px;
+      border-radius: 50%;
+      background: var(--purple);
+      opacity: 0;
+      animation: twinkle 4s infinite ease-in-out;
+    }
+
+    @keyframes twinkle {
+      0%, 100% { opacity: 0; transform: scale(0.8); }
+      50%       { opacity: 0.6; transform: scale(1.2); }
+    }
+
+    .container {
+      position: relative; z-index: 1;
+      width: 100%; max-width: 520px;
+    }
+
+    /* ── header ── */
+    .header { text-align: center; margin-bottom: 2rem; animation: fadeDown 0.6s ease both; }
+    .header .deco { font-size: 22px; letter-spacing: 10px; margin-bottom: 8px; }
+    .header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 32px; font-weight: 700;
+      background: linear-gradient(135deg, #a855f7, #ec4899);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1.2; margin-bottom: 6px;
+    }
+    .header p { font-size: 13px; color: var(--muted); letter-spacing: 0.06em; }
+
+    /* ── card ── */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 2rem 2rem 1.75rem;
+      box-shadow: 0 4px 40px rgba(192,132,252,0.12);
+      animation: fadeUp 0.7s ease both;
+      position: relative; overflow: hidden;
+    }
+    .card::before {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; height: 3px;
+      background: linear-gradient(90deg, #c084fc, #f472b6, #c084fc);
+    }
+
+    /* ── fields ── */
+    .field { margin-bottom: 1.1rem; }
+    label {
+      display: block;
+      font-size: 11px; font-weight: 500;
+      letter-spacing: 0.08em; text-transform: uppercase;
+      color: var(--muted); margin-bottom: 5px;
+    }
+    input, select, textarea {
+      width: 100%;
+      background: #fdf4ff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 14px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 14px; color: var(--text);
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      appearance: none;
+    }
+    input::placeholder, textarea::placeholder { color: #c4a8cc; }
+    input:focus, select:focus, textarea:focus {
+      border-color: var(--purple);
+      box-shadow: 0 0 0 3px rgba(192,132,252,0.15);
+    }
+    input.error, select.error, textarea.error {
+      border-color: #f472b6;
+      box-shadow: 0 0 0 3px rgba(244,114,182,0.12);
+    }
+    textarea { resize: vertical; min-height: 110px; }
+    select { cursor: pointer; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23c084fc' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; padding-right: 38px; }
+
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+
+    .error-msg {
+      font-size: 11px; color: #e879a8;
+      margin-top: 4px; display: none;
+    }
+    .char-count { font-size: 11px; color: var(--muted); text-align: right; margin-top: 4px; }
+
+    /* ── type selector ── */
+    .type-group { display: flex; gap: 8px; flex-wrap: wrap; }
+    .type-btn {
+      padding: 7px 14px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: #fdf4ff;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 12px; color: var(--muted);
+      cursor: pointer; transition: all 0.15s;
+    }
+    .type-btn:hover { border-color: var(--purple); color: var(--purple); }
+    .type-btn.active {
+      background: linear-gradient(135deg, rgba(192,132,252,0.15), rgba(244,114,182,0.15));
+      border-color: var(--pink); color: #9333ea; font-weight: 500;
+    }
+
+    /* ── rating ── */
+    .stars { display: flex; gap: 6px; }
+    .stars span {
+      font-size: 22px; cursor: pointer;
+      filter: grayscale(1); opacity: 0.4;
+      transition: all 0.15s; user-select: none;
+    }
+    .stars span.lit { filter: none; opacity: 1; }
+
+    /* ── submit ── */
+    .submit-btn {
+      width: 100%; padding: 13px;
+      background: linear-gradient(135deg, #a855f7, #ec4899);
+      border: none; border-radius: 12px;
+      color: white; font-family: 'DM Sans', sans-serif;
+      font-size: 14px; font-weight: 500;
+      cursor: pointer; letter-spacing: 0.04em;
+      transition: opacity 0.2s, transform 0.1s;
+      margin-top: 0.75rem;
+    }
+    .submit-btn:hover { opacity: 0.9; }
+    .submit-btn:active { transform: scale(0.98); }
+    .submit-btn:disabled { opacity: 0.55; cursor: not-allowed; transform: none; }
+
+    /* ── success ── */
+    .success-screen {
+      display: none; text-align: center; padding: 2rem 0;
+    }
+    .success-screen .moon { font-size: 50px; margin-bottom: 12px; animation: float 3s ease-in-out infinite; }
+    .success-screen h2 { font-family: 'Playfair Display', serif; font-size: 22px; margin-bottom: 8px; color: var(--text); }
+    .success-screen p { font-size: 13px; color: var(--muted); line-height: 1.7; }
+
+    @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+    @keyframes fadeDown { from{opacity:0;transform:translateY(-16px)} to{opacity:1;transform:none} }
+    @keyframes fadeUp   { from{opacity:0;transform:translateY(16px)}  to{opacity:1;transform:none} }
+
+    .footer { text-align: center; margin-top: 1.25rem; font-size: 12px; color: var(--muted); animation: fadeUp 0.9s ease both; }
+
+    @media(max-width: 480px) {
+      .row { grid-template-columns: 1fr; }
+      .card { padding: 1.5rem 1.25rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- fondo de estrellas -->
+<div class="stars-bg" id="stars-bg"></div>
+
+<div class="container">
+  <div class="header">
+    <div class="deco">✨ 🌙 ✨</div>
+    <h1>Quejas & Sugerencias</h1>
+    <p>☾ ⋆｡𖦹 °✩ tu opinión importa ✩° 𖦹｡⋆ ☾</p>
+  </div>
+
+  <div class="card">
+
+    <!-- ════ FORMULARIO ════ -->
+    <!--
+      INSTRUCCIONES:
+      1. Ve a https://formspree.io y crea una cuenta gratis
+      2. Crea un nuevo formulario y copia tu "Form ID"
+      3. Reemplaza "TU_FORM_ID" en la línea de abajo con tu ID real
+         Ejemplo: action="https://formspree.io/f/xpwzabcd"
+    -->
+    <form id="contactForm"
+          action="https://formspree.io/f/TU_FORM_ID"
+          method="POST"
+          novalidate>
+
+      <!-- tipo de mensaje -->
+      <div class="field">
+        <label>tipo de mensaje</label>
+        <div class="type-group" id="typeGroup">
+          <button type="button" class="type-btn active" data-val="queja">😤 Queja</button>
+          <button type="button" class="type-btn" data-val="sugerencia">💡 Sugerencia</button>
+          <button type="button" class="type-btn" data-val="felicitacion">🌸 Felicitación</button>
+          <button type="button" class="type-btn" data-val="otro">🌙 Otro</button>
+        </div>
+        <input type="hidden" name="tipo" id="tipoInput" value="queja"/>
+      </div>
+
+      <div class="row">
+        <div class="field">
+          <label for="nombre">tu nombre</label>
+          <input type="text" id="nombre" name="nombre" placeholder="Sailor Moon..."/>
+          <span class="error-msg" id="err-nombre">Por favor ingresa tu nombre</span>
+        </div>
+        <div class="field">
+          <label for="email">tu correo</label>
+          <input type="email" id="email" name="email" placeholder="moon@stars.com"/>
+          <span class="error-msg" id="err-email">Correo inválido</span>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="categoria">categoría</label>
+        <select id="categoria" name="categoria">
+          <option value="">✨ selecciona una categoría...</option>
+          <option value="atencion">👤 Atención al cliente</option>
+          <option value="producto">📦 Producto / servicio</option>
+          <option value="web">💻 Sitio web / app</option>
+          <option value="entrega">🚚 Tiempos de entrega</option>
+          <option value="precio">💰 Precios</option>
+          <option value="otro">🌙 Otro</option>
+        </select>
+        <span class="error-msg" id="err-categoria">Selecciona una categoría</span>
+      </div>
+
+      <!-- valoración con estrellas -->
+      <div class="field">
+        <label>valoración general</label>
+        <div class="stars" id="stars" role="group" aria-label="Valoración de 1 a 5 estrellas">
+          <span data-val="1" title="1 estrella">⭐</span>
+          <span data-val="2" title="2 estrellas">⭐</span>
+          <span data-val="3" title="3 estrellas">⭐</span>
+          <span data-val="4" title="4 estrellas">⭐</span>
+          <span data-val="5" title="5 estrellas">⭐</span>
+        </div>
+        <input type="hidden" name="valoracion" id="valoracionInput" value=""/>
+        <span class="error-msg" id="err-stars">Por favor selecciona una valoración</span>
+      </div>
+
+      <div class="field">
+        <label for="asunto">asunto</label>
+        <input type="text" id="asunto" name="asunto" placeholder="Resumen breve de tu mensaje..."/>
+        <span class="error-msg" id="err-asunto">Por favor escribe un asunto</span>
+      </div>
+
+      <div class="field">
+        <label for="mensaje">mensaje</label>
+        <textarea id="mensaje" name="mensaje" maxlength="500"
+          placeholder="Cuéntame todo... lost in thoughts ✨"
+          oninput="document.getElementById('chars').textContent=this.value.length+'/500'"></textarea>
+        <span class="error-msg" id="err-mensaje">Por favor escribe tu mensaje</span>
+        <div class="char-count" id="chars">0/500</div>
+      </div>
+
+      <!-- campo oculto anti-spam de Formspree -->
+      <input type="text" name="_gotcha" style="display:none"/>
+      <!-- redirigir después del envío (opcional) -->
+      <!-- <input type="hidden" name="_next" value="https://tu-sitio.com/gracias"/> -->
+
+      <button type="submit" class="submit-btn" id="submitBtn">
+        ✨ enviar mensaje ✨
+      </button>
+
+    </form>
+
+    <!-- pantalla de éxito -->
+    <div class="success-screen" id="successScreen">
+      <div class="moon">🌙</div>
+      <h2>¡Mensaje enviado!</h2>
+      <p>Gracias por escribir ✨<br>
+         Te responderé pronto.<br><br>
+         <em style="font-family:'Playfair Display',serif; font-size:12px;">made with ☕ & sailor moon vibes</em>
+      </p>
+    </div>
+
+  </div><!-- /card -->
+
+  <div class="footer">☾ ⋆｡𖦹 °✩ Anyelina ✩° 𖦹｡⋆ ☾</div>
+</div>
+
+<script>
+  /* ── estrellas de fondo ── */
+  const bg = document.getElementById('stars-bg');
+  for (let i = 0; i < 35; i++) {
+    const s = document.createElement('div');
+    s.className = 'star';
+    s.style.cssText = `
+      left:${Math.random()*100}%;
+      top:${Math.random()*100}%;
+      animation-delay:${(Math.random()*4).toFixed(2)}s;
+      animation-duration:${(3+Math.random()*4).toFixed(2)}s;
+      width:${Math.random()>0.5?'3px':'2px'};
+      height:${Math.random()>0.5?'3px':'2px'};
+    `;
+    bg.appendChild(s);
+  }
+
+  /* ── tipo de mensaje ── */
+  document.querySelectorAll('.type-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.type-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tipoInput').value = btn.dataset.val;
+    });
+  });
+
+  /* ── estrellas de valoración ── */
+  const starEls = document.querySelectorAll('#stars span');
+  let rating = 0;
+  starEls.forEach(star => {
+    star.addEventListener('mouseenter', () => highlightStars(+star.dataset.val));
+    star.addEventListener('mouseleave', () => highlightStars(rating));
+    star.addEventListener('click', () => {
+      rating = +star.dataset.val;
+      document.getElementById('valoracionInput').value = rating;
+      highlightStars(rating);
+    });
+  });
+  function highlightStars(n) {
+    starEls.forEach(s => s.classList.toggle('lit', +s.dataset.val <= n));
+  }
+
+  /* ── validación ── */
+  function showErr(id, show) {
+    const el = document.getElementById('err-'+id);
+    if (el) el.style.display = show ? 'block' : 'none';
+  }
+  function markField(id, error) {
+    const el = document.getElementById(id);
+    if (el) el.classList.toggle('error', error);
+    showErr(id, error);
+  }
+
+  function validate() {
+    let ok = true;
+    const nombre = document.getElementById('nombre').value.trim();
+    const email  = document.getElementById('email').value.trim();
+    const cat    = document.getElementById('categoria').value;
+    const asunto = document.getElementById('asunto').value.trim();
+    const msg    = document.getElementById('mensaje').value.trim();
+    const emailOk = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+
+    markField('nombre',    !nombre);  if (!nombre)  ok = false;
+    markField('email',     !emailOk); if (!emailOk) ok = false;
+    markField('categoria', !cat);     if (!cat)     ok = false;
+    markField('asunto',    !asunto);  if (!asunto)  ok = false;
+    markField('mensaje',   !msg);     if (!msg)     ok = false;
+
+    const noRating = !rating;
+    showErr('stars', noRating);
+    if (noRating) ok = false;
+
+    return ok;
+  }
+
+  /* ── envío ── */
+  const form = document.getElementById('contactForm');
+  const btn  = document.getElementById('submitBtn');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!validate()) return;
+
+    btn.disabled = true;
+    btn.textContent = '🌙 enviando...';
+
+    try {
+      const res = await fetch(form.action, {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { 'Accept': 'application/json' }
+      });
+
+      if (res.ok) {
+        form.style.display = 'none';
+        document.getElementById('successScreen').style.display = 'block';
+      } else {
+        throw new Error('Error al enviar');
+      }
+    } catch {
+      btn.disabled = false;
+      btn.textContent = '✨ enviar mensaje ✨';
+      alert('Hubo un error al enviar el formulario. Verifica tu Form ID de Formspree e inténtalo de nuevo.');
+    }
+  });
+</script>
+</body>  
+</html> 

@@ -30,6 +30,8 @@
 
 <td width="50%" valign="top">
 
+
+
 ## ✨ tech stack
 
 <p align="center">
@@ -42,6 +44,8 @@
 
 </tr>
 </table>
+
+
 
 ---
 
@@ -83,16 +87,11 @@ made with ☕ & sailor moon vibes ✨
 
 
 
-
-
-
-
-
 ## 🌸 connect with me
 
 <p align="center">
 
-<a href="https://instagram.com/stargirl.xw" target="_blank">
+<a href="https://www.sport.es/es/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
@@ -109,14 +108,7 @@ made with ☕ & sailor moon vibes ✨
 </a>
 
 
-
-
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 
 
 ## ────────────୨ৎ────────────
@@ -127,17 +119,7 @@ comentarios y mensajes de usuarios 👇🏻.
 
 🔗 https://stargirl-xw.github.io/sailorxw/
 
-
-
-
 </p>
-
-
-
-
-
-
-
 
 
 </td>

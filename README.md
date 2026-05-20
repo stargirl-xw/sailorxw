@@ -91,7 +91,7 @@ made with ☕ & sailor moon vibes ✨
 
 <p align="center">
 
-<a href="https://www.sport.es/es/" target="_blank">
+<a href="https://www.instagram.com/@stargirl.xw" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 

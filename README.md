@@ -48,8 +48,9 @@
 <a href="https://www.postgresql.org/?utm_source=chatgpt.com" target="_blank">
 <img width="50" height="50" alt="imagen postgress" src="https://github.com/user-attachments/assets/a60208d9-bb6b-46cd-bff4-32400114665b" />
 
-<a href="https://github.com/?locale=es-419" target="_blank">
-<img width="50" height="50" alt="imagen Githug" src="https://github.com/user-attachments/assets/074e7010-76a7-4f4c-888d-4818d80e9d7b" />
+<a href="https://code.visualstudio.com/" target="_blank">
+<img width="50" height="50" alt="imagen html" src="https://github.com/user-attachments/assets/91408f91-5fba-4d59-b422-f5e0819c4630" />
+
 
 
 

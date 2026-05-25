@@ -99,7 +99,7 @@ Learning, building, improving
 
 
 
-## 🌸 Connect with me
+## 🌸 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 
 <p align="center">
 

@@ -66,7 +66,7 @@
 
 <td width="50%" valign="top">
 
-## ✨ Currently learning
+## ✨ 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠
 
 <p align="center">
 

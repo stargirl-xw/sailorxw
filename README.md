@@ -44,6 +44,8 @@
 <a href="https://www.python.org/" target="_blank">
 <img width="50" height="50" alt="imagen python" src="https://github.com/user-attachments/assets/bcc850d1-8fa5-454d-b495-12df23e6a697" />
 
+<a href="https://www.python.org/" target="_blank">
+<img width="50" height="50" alt="imagen python" src="https://github.com/user-attachments/assets/bcc850d1-8fa5-454d-b495-12df23e6a697" />
 
 
 

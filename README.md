@@ -28,28 +28,52 @@
 
 </td>
 
+
+
 <td width="50%" valign="top">
-
-
 
 ## 𝐓𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤
 
 <p align="center">
-
 <a href="https://www.java.com/es/" target="_blank">
 <img width="50" height="50" alt="imagen Java" src="https://github.com/user-attachments/assets/63e517dd-433d-4be8-9a82-8a62cf76148e" />
-
+</a>
 <a href="https://www.python.org/" target="_blank">
 <img width="50" height="50" alt="imagen python" src="https://github.com/user-attachments/assets/bcc850d1-8fa5-454d-b495-12df23e6a697" />
-
+</a>
 <a href="https://github.com/?locale=es-419" target="_blank">
 <img width="50" height="50" alt="imagen Github" src="https://github.com/user-attachments/assets/a7ee3d3c-b05e-4dd9-999c-fb8b1ca942c7" />
-
-<a href="https://www.postgresql.org/?utm_source=chatgpt.com" target="_blank">
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
 <img width="50" height="50" alt="imagen postgress" src="https://github.com/user-attachments/assets/a60208d9-bb6b-46cd-bff4-32400114665b" />
-
+</a>
 <a href="https://code.visualstudio.com/" target="_blank">
-<img width="50" height="50" alt="imagen html" src="https://github.com/user-attachments/assets/91408f91-5fba-4d59-b422-f5e0819c4630" />
+<img width="50" height="50" alt="imagen VSCode" src="https://github.com/user-attachments/assets/91408f91-5fba-4d59-b422-f5e0819c4630" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://kimi.moonshot.cn/" target="_blank">
+<img width="50" height="50" alt="imagen Kimi" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/logo_kimiii_aena5o" />
+<br>
+<sub><b>Kimi</b></sub>
+</a>
+</p>
+
+</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </p>

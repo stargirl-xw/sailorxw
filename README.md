@@ -13,7 +13,7 @@
 
 <td width="50%" valign="top">
 
-## ┆ about me:
+## ┆ About me:
 
 > not every error is the end,
 > some are just new beginnings ᶻ 𝗓 𐰁
@@ -99,7 +99,7 @@ made with ☕ & sailor moon vibes ✨
 
 
 
-## 🌸 connect with me
+## 🌸 Connect with me
 
 <p align="center">
 

@@ -79,7 +79,7 @@
 
 ## 🌙 Midnight thoughts
 
-> lost in code and late night thoughts ✨
+>  ➤ lost in code and late night thoughts
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 <br>
 
-made with ☕ & sailor moon vibes ✨
+Learning, building, improving
 
 </div>
 

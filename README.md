@@ -36,8 +36,6 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,html,css,js,git,github,vscode" />
-
 <a href="https://www.java.com/es/" target="_blank">
 <img width="50" height="50" alt="imagen Java" src="https://github.com/user-attachments/assets/63e517dd-433d-4be8-9a82-8a62cf76148e" />
 

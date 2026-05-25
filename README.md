@@ -52,19 +52,29 @@
 </a>
 </p>
 
+## 🤖 𝐌𝐢𝐬 𝐈𝐀𝐬 𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐝𝐚𝐬
+
 <p align="center">
 <a href="https://kimi.moonshot.cn/" target="_blank">
 <img width="50" height="50" alt="imagen Kimi" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/logo_kimiii_aena5o" />
 <br>
 <sub><b>Kimi</b></sub>
 </a>
+&nbsp;&nbsp;
+<a href="https://claude.ai/" target="_blank">
+<img width="50" height="50" alt="imagen Claude" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" />
+<br>
+<sub><b>Claude</b></sub>
+</a>
+&nbsp;&nbsp;
+<a href="https://gemini.google.com/" target="_blank">
+<img width="50" height="50" alt="imagen Gemini" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/240px-Google_Gemini_logo.svg.png" />
+<br>
+<sub><b>Gemini</b></sub>
+</a>
 </p>
 
 </td>
-
-
-
-
 
 
 

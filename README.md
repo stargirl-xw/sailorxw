@@ -43,7 +43,13 @@
 <img width="50" height="50" alt="imagen python" src="https://github.com/user-attachments/assets/bcc850d1-8fa5-454d-b495-12df23e6a697" />
 
 <a href="https://github.com/?locale=es-419" target="_blank">
-<img width="3840" height="2160" alt="imagen Githug" src="https://github.com/user-attachments/assets/074e7010-76a7-4f4c-888d-4818d80e9d7b" />
+<img width="50" height="50" alt="imagen Githug" src="https://github.com/user-attachments/assets/074e7010-76a7-4f4c-888d-4818d80e9d7b" />
+
+<a href="https://github.com/?locale=es-419" target="_blank">
+<img width="50" height="50" alt="imagen Githug" src="https://github.com/user-attachments/assets/074e7010-76a7-4f4c-888d-4818d80e9d7b" />
+
+<a href="https://github.com/?locale=es-419" target="_blank">
+<img width="50" height="50" alt="imagen Githug" src="https://github.com/user-attachments/assets/074e7010-76a7-4f4c-888d-4818d80e9d7b" />
 
 
 

@@ -43,7 +43,7 @@
 <img width="50" height="50" alt="imagen python" src="https://github.com/user-attachments/assets/bcc850d1-8fa5-454d-b495-12df23e6a697" />
 
 <a href="https://github.com/?locale=es-419" target="_blank">
-<img width="980" height="980" alt="imagen Github" src="https://github.com/user-attachments/assets/a7ee3d3c-b05e-4dd9-999c-fb8b1ca942c7" />
+<img width="50" height="50" alt="imagen Github" src="https://github.com/user-attachments/assets/a7ee3d3c-b05e-4dd9-999c-fb8b1ca942c7" />
 
 <a href="https://www.postgresql.org/?utm_source=chatgpt.com" target="_blank">
 <img width="50" height="50" alt="imagen postgress" src="https://github.com/user-attachments/assets/a60208d9-bb6b-46cd-bff4-32400114665b" />

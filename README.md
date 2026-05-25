@@ -32,7 +32,7 @@
 
 
 
-## Tech stack
+## 𝐓𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤
 
 <p align="center">
 

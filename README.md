@@ -62,8 +62,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://claude.ai/" target="_blank">
-<img width="50" height="50" alt="imagen Claude" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" />
-<br>
+<img width="50" height="50" alt="imagen Claude" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/imagen_claude_mwtnmo" />
 <sub><b>Claude</b></sub>
 </a>
 &nbsp;&nbsp;

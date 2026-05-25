@@ -56,22 +56,27 @@
 ## 🤖 𝐌𝐢𝐬 𝐈𝐀𝐬 𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐝𝐚𝐬
 
 <p align="center">
+<table align="center"><tr>
+<td align="center">
 <a href="https://kimi.moonshot.cn/" target="_blank">
-<img width="50" height="50" alt="imagen Kimi" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/logo_kimiii_aena5o" />
+<img width="50" height="50" alt="Kimi" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/logo_kimiii_aena5o" />
 <br><sub><b>Kimi</b></sub>
 </a>
-&nbsp;&nbsp;
+</td>
+<td align="center">
 <a href="https://claude.ai/" target="_blank">
-<img width="50" height="50" alt="imagen Claude" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/imagen_claude_mwtnmo" />
+<img width="50" height="50" alt="Claude" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/imagen_claude_mwtnmo" />
 <br><sub><b>Claude</b></sub>
 </a>
-&nbsp;&nbsp;
+</td>
+<td align="center">
 <a href="https://gemini.google.com/" target="_blank">
-<img width="50" height="50" alt="imagen Gemini" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/imagen_gemini_xcrddp" />
+<img width="50" height="50" alt="Gemini" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/imagen_gemini_xcrddp" />
 <br><sub><b>Gemini</b></sub>
 </a>
+</td>
+</tr></table>
 </p>
-
 
 
 

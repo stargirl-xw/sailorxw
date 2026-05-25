@@ -32,7 +32,7 @@
 
 
 
-## ✨ tech stack
+## Tech stack
 
 <p align="center">
 
@@ -52,18 +52,12 @@
 <img width="50" height="50" alt="imagen html" src="https://github.com/user-attachments/assets/91408f91-5fba-4d59-b422-f5e0819c4630" />
 
 
-
-
-
-
 </p>
 
 </td>
 
 </tr>
 </table>
-
-
 
 ---
 
@@ -72,7 +66,7 @@
 
 <td width="50%" valign="top">
 
-## ✨ currently learning
+## ✨ Currently learning
 
 <p align="center">
 
@@ -83,7 +77,7 @@
 
 ---
 
-## 🌙 midnight thoughts
+## 🌙 Midnight thoughts
 
 > lost in code and late night thoughts ✨
 

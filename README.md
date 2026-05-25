@@ -77,7 +77,7 @@
 
 ---
 
-## 🌙 Midnight thoughts
+## 🌙 𝐌𝐢𝐝𝐧𝐢𝐠𝐡𝐭 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐬
 
 >  ➤ lost in code and late night thoughts
 

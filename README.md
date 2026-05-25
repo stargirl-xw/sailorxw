@@ -13,7 +13,7 @@
 
 <td width="50%" valign="top">
 
-## ┆ About me:
+## ┆ 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
 > not every error is the end,
 > some are just new beginnings ᶻ 𝗓 𐰁

@@ -68,7 +68,8 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://gemini.google.com/" target="_blank">
-<img width="50" height="50" alt="imagen Gemini" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/240px-Google_Gemini_logo.svg.png" />
+<img width="50" height="50" alt="imagen Gemini" src="https://res.cloudinary.com/duzdkz9ci/image/upload/f_auto,q_auto/imagen_gemini_xcrddp" />
+  
 <br>
 <sub><b>Gemini</b></sub>
 </a>

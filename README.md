@@ -53,7 +53,7 @@
 </p>
 
 
-## 🤖 𝐌𝐢𝐬 𝐈𝐀𝐬 𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐝𝐚𝐬
+## 𝐌𝐢𝐬 𝐈𝐀𝐬 𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐝𝐚𝐬
 
 <p align="center">
 <table align="center"><tr>
